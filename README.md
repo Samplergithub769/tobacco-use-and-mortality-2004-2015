@@ -19,6 +19,9 @@
 💻 Application
 - [app.py](https://github.com/Samplergithub769/tobacco-use-and-mortality-2004-2015/blob/main/app.py)
 
+📂 Templates
+- [templates](https://github.com/Samplergithub769/tobacco-use-and-mortality-2004-2015/tree/main/templates)
+
 🖼️ Images
 
 📌 Flask Web Application Output
