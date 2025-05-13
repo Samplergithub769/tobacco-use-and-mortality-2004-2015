@@ -1,23 +1,23 @@
 # tobacco-use-and-mortality-2004-2015
 ## 📁 Repository Structure
 ### 📂 Dataset
-- https://github.com/Samplergithub769/tobacco-use-and-mortality-2004-2015/blob/main/smokers.csv
-- https://github.com/Samplergithub769/tobacco-use-and-mortality-2004-2015/blob/main/prescriptions.csv
-- https://github.com/Samplergithub769/tobacco-use-and-mortality-2004-2015/blob/main/metrics.csv
-- https://github.com/Samplergithub769/tobacco-use-and-mortality-2004-2015/blob/main/fatalities.csv
-- https://github.com/Samplergithub769/tobacco-use-and-mortality-2004-2015/blob/main/admissions.csv  
+- [smokers.csv](https://github.com/Samplergithub769/tobacco-use-and-mortality-2004-2015/blob/main/smokers.csv)
+- [prescriptions.csv](https://github.com/Samplergithub769/tobacco-use-and-mortality-2004-2015/blob/main/prescriptions.csv)
+- [metrics.csv](https://github.com/Samplergithub769/tobacco-use-and-mortality-2004-2015/blob/main/metrics.csv)
+- [fatalities.csv](https://github.com/Samplergithub769/tobacco-use-and-mortality-2004-2015/blob/main/fatalities.csv)
+- [admissions.csv](https://github.com/Samplergithub769/tobacco-use-and-mortality-2004-2015/blob/main/admissions.csv) 
 
 📓 Notebook
--  https://github.com/Samplergithub769/tobacco-use-and-mortality-2004-2015/blob/main/Tobacco_Use_And_Motality_3.ipynb
+-  [Tobacco_Use_And_Motality_3.ipynb](https://github.com/Samplergithub769/tobacco-use-and-mortality-2004-2015/blob/main/Tobacco_Use_And_Motality_3.ipynb)
 
 📄 Report
-- https://github.com/Samplergithub769/tobacco-use-and-mortality-2004-2015/blob/main/Tobacco%20use%20and%20mortality.pdf
+- [Tobacco use and mortality.pdf](https://github.com/Samplergithub769/tobacco-use-and-mortality-2004-2015/blob/main/Tobacco%20use%20and%20mortality.pdf)
 
 🧠 Model
- - https://github.com/Samplergithub769/tobacco-use-and-mortality-2004-2015/blob/main/model.pkl
+ - [model.pkl](https://github.com/Samplergithub769/tobacco-use-and-mortality-2004-2015/blob/main/model.pkl)
 
 💻 Application
-- https://github.com/Samplergithub769/tobacco-use-and-mortality-2004-2015/blob/main/app.py
+- [app.py](https://github.com/Samplergithub769/tobacco-use-and-mortality-2004-2015/blob/main/app.py)
 
 🖼️ Images
 
