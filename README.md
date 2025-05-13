@@ -20,7 +20,8 @@
 
 🖼️ Images
 📌 Flask Web Application Output
- ![image](https://github.com/user-attachments/assets/9198c19c-532f-44bd-b3ea-99fd0367b5b8)
+ ![image](https://github.com/user-attachments/assets/aaf5715c-4752-416f-b594-6d027733a373)
+
 
 
 
